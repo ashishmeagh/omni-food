@@ -1,6 +1,6 @@
 # omni-food website
 
-This food delivery static website is a responsive and visually appealing platform built using HTML5, CSS3, and Javascript. This website aims to provide a seamless and user-friendly experience for customers looking to order food online.The website showcases a variety of mouth-watering dishes with captivating images and enticing descriptions. It allows users to browse through different food categories, explore menus, and view detailed information about each dish. The intuitive navigation and well-organized layout make it effortless for users to find their desired meals quickly.
+This food delivery website is a responsive and visually appealing platform built using HTML5, CSS3, and Javascript. This website aims to provide a seamless and user-friendly experience for customers looking to order food online.The website showcases a variety of mouth-watering dishes with captivating images and enticing descriptions. It allows users to browse through different food categories, explore menus, and view detailed information about each dish. The intuitive navigation and well-organized layout make it effortless for users to find their desired meals quickly.
 
 To enhance user interactivity, Javascript is employed to incorporate dynamic features. Users can customize their orders by selecting various options such as toppings, sauces, or portion sizes. The website includes an easy-to-use cart system that dynamically updates as users add or remove items, providing a real-time summary of their order.
 
